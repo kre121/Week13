@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week13SQLLiteDB", "Week13SQLLiteDB\Week13SQLLiteDB.csproj", "{1041256F-787A-424D-83AE-4E24FC94AFCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1041256F-787A-424D-83AE-4E24FC94AFCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1041256F-787A-424D-83AE-4E24FC94AFCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1041256F-787A-424D-83AE-4E24FC94AFCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1041256F-787A-424D-83AE-4E24FC94AFCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFB2C7B1-7475-4740-BFBE-BFD2BE37B694}
+	EndGlobalSection
+EndGlobal
